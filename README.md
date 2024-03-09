@@ -15,3 +15,6 @@ In a Terminal/Powershell, use the following command to let ffmpeg listen to your
 The "Pfad für Platform" can differ depending on your chosen streaming platform. For twitch you can choose one if the servers listed [here](https://help.twitch.tv/s/twitch-ingest-recommendation). (For example : rtmp://fra02.contribute.live-video.net/app/<stream_key> )
 
 The limit on how many streams you can send simultatiously should be mostly set by your uploadrate.
+
+
+You need to start ffmpeg first before starting the stream in OBS.
