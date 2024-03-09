@@ -1,6 +1,8 @@
 # OBS2multipleStreams
 Quick description on how to multistream using only OBS &amp; ffmpeg
 
+Prequisites: [ffmpeg](https://ffmpeg.org/)
+
 In OBS, setup your stream to send to rtmp://localhost:1935/live/app (see image below)
 
 ![grafik](https://github.com/sc2de/OBS2multipleStreams/assets/40400000/3849e460-bea4-4ceb-a8f3-5b6b04efdbd9)
